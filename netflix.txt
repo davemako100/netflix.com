@@ -1,0 +1,1 @@
+users can login with face recognition, email, phone number 
