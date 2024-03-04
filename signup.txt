@@ -1,1 +1,4 @@
 users canh signup with email, number, and fingerprint
+users can subscript with credit card details 
+
+

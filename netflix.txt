@@ -1,1 +1,3 @@
 users can login with face recognition, email, phone number 
+users have to pay $10 monthly subscription 
+users can share their account details to max 6 people 
